@@ -18,5 +18,10 @@
   "devDependencies": {
     "parcel-reporter-static-files-copy": "^1.5.3",
     "process": "^0.11.10"
+  },
+  "targets": {
+    "default": {
+      "publicUrl": "https://klau-mt.github.io/animaciones-roble/"
+    }
   }
 }
