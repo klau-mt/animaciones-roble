@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.f994d618.css","style/main.css"],"sourcesContent":[".canvas-size {\n  width: auto;\n  height: 600px;\n}\n\n/*# sourceMappingURL=index.f994d618.css.map */\n",".canvas-size {\n    height: 600px;\n    width: auto;\n}"],"names":[],"version":3,"file":"index.f994d618.css.map"}
