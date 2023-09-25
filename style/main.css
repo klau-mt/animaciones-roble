@@ -2,3 +2,24 @@
     height: 600px;
     width: auto;
 }
+
+.timeline-canvas-size {
+    height: 300px;
+    width: auto;
+    pointer-events: none;
+}
+
+.canvas-size-check{
+    height: 300px;
+    width: auto;
+    pointer-events: none;
+}
+
+.gray-background {
+    background-color: rgb(243, 243, 243);
+}
+
+#app div {
+    text-align: center;
+    padding-bottom: 100px;
+}
